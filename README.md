@@ -1,14 +1,15 @@
 # Hi, I'm Yumin 👋
 
-## 💻 パソコン講師 × Web・業務ツール開発
+## 💻 パソコン講師 × Web・プログラム開発
 
 元SE。現在は在宅でプログラム開発を行いながら、パソコン講師として活動しています。
 
-Word・Excel・PowerPointなどのOffice系から、  
-VBA・HTML / CSS / JavaScript・Python・生成AI・基本情報技術者まで、  
-初心者の方にも「難しいことを、できるだけわかりやすく」伝えることを大切にしています。
+Word・Excel・PowerPointなどのOffice系から、
+VBA・HTML / CSS / JavaScript・Python・生成AI・基本情報技術者など、
+初心者から社会人向けの講習を担当しています。
 
-講習で使える教材や、仕事・学習に役立つWebツール、ゲームなども制作しています。
+講師として「教える」だけでなく、
+学習教材やWebツール、アプリなども制作しています。
 
 ---
 
@@ -33,8 +34,10 @@ VBA・HTML / CSS / JavaScript・Python・生成AI・基本情報技術者まで�
 
 ### 📝 文章整形ツール
 
-文章に含まれる余分な空白・空行・改行などを簡単に整形できるWebツールです。  
-生成AIから出力された文章を整えるときにも利用できます。
+文章に含まれる余分な空白・空行・改行などを、
+ブラウザ上で簡単に整形できるWebツールです。
+
+生成AIから出力された文章を整えるときにも使えるようにしています。
 
 🔗 [使ってみる](https://yumin-snoopy.github.io/tools/text_formatter/)  
 📁 [Tools リポジトリ](https://github.com/yumin-snoopy/tools)
@@ -43,8 +46,10 @@ VBA・HTML / CSS / JavaScript・Python・生成AI・基本情報技術者まで�
 
 ### 📊 Excel関数検索
 
-「何をしたいか」からExcel関数を探せる初心者向け検索ツールです。  
-関数の意味だけでなく、書き方や使用例も確認できるようにしています。
+「何をしたいか」からExcel関数を探せる、
+初心者向けの検索ツールです。
+
+関数名だけでなく、機能や書き方、使用例なども確認できるようにしています。
 
 📁 [Tools リポジトリ](https://github.com/yumin-snoopy/tools)
 
@@ -52,7 +57,9 @@ VBA・HTML / CSS / JavaScript・Python・生成AI・基本情報技術者まで�
 
 ### 🔳 QRコード作成ツール
 
-URLや文字列からQRコードを作成できるシンプルなWebツールです。
+URLや文字列からQRコードを作成できるWebツールです。
+
+できるだけシンプルな操作で使えることを意識して制作しています。
 
 📁 [Tools リポジトリ](https://github.com/yumin-snoopy/tools)
 
@@ -60,7 +67,8 @@ URLや文字列からQRコードを作成できるシンプルなWebツールで
 
 ### 💡 プロンプト作成支援ツール
 
-生成AIへ指示するときのプロンプト作成をサポートするWebツールです。
+ChatGPTなどの生成AIに指示するときの
+プロンプト作成をサポートするWebツールです。
 
 📁 [Tools リポジトリ](https://github.com/yumin-snoopy/tools)
 
@@ -68,15 +76,11 @@ URLや文字列からQRコードを作成できるシンプルなWebツールで
 
 ### 📚 VBA If文 練習教材
 
-VBA初心者向けに、If文の考え方や書き方をブラウザ上で練習できる教材です。
+VBA初心者向けに、
+If文の考え方や書き方をブラウザ上で練習できる教材です。
 
-📁 [Materials リポジトリ](https://github.com/yumin-snoopy/materials)
-
----
-
-### 🔐 情報セキュリティ教材
-
-ハッシュ値など、情報セキュリティの仕組みを「見て・操作して・理解する」ための教材を制作しています。
+授業で学んだ内容を、
+実際に問題を解きながら確認できるように制作しています。
 
 📁 [Materials リポジトリ](https://github.com/yumin-snoopy/materials)
 
@@ -84,7 +88,7 @@ VBA初心者向けに、If文の考え方や書き方をブラウザ上で練習
 
 ## 🛠 Tools
 
-仕事や日常で使えるWebツールを制作しています。
+仕事や学習、日常で使えるWebツールを制作しています。
 
 - 📝 文章整形ツール
 - 🔳 QRコード作成ツール
@@ -98,13 +102,14 @@ VBA初心者向けに、If文の考え方や書き方をブラウザ上で練習
 
 ## 📚 Learning Materials
 
-パソコン講習やプログラミング学習で使える教材を制作しています。
+初心者向けの学習教材や、
+講習で活用できる教材を制作しています。
 
 - VBA練習教材
-- Excel教材
+- Excel関連教材
 - プログラミング教材
 - 情報セキュリティ教材
-- 初心者向けWeb教材
+- Web学習教材
 
 👉 [Materialsを見る](https://github.com/yumin-snoopy/materials)
 
@@ -112,12 +117,12 @@ VBA初心者向けに、If文の考え方や書き方をブラウザ上で練習
 
 ## 🎮 Games
 
-HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
+HTML / CSS / JavaScriptなどを使った
+Webゲームも制作しています。
 
 - 🧱 Tetris
 - ⚫ Reversi
 - 🔢 2048
-- 🐦 Merge Game
 - その他ミニゲーム
 
 👉 [Gamesを見る](https://github.com/yumin-snoopy/games)
@@ -132,7 +137,7 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 
 ### Web
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `PHP`
 
 ### Programming
 
@@ -140,7 +145,7 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 
 ### Data / Automation
 
-`Power Query` `Power BI` `Excel`
+`Excel` `Power Query` `Power BI`
 
 ### AI
 
@@ -150,7 +155,7 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 
 ## 🌱 What I'm Working On
 
-現在は、
+現在は、講師としての経験とプログラム開発の経験を生かして、
 
 - 初心者向け学習教材
 - 業務効率化Webツール
@@ -159,16 +164,20 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 - JavaScriptを使ったWebゲーム
 - 生成AIを活用した教材・ツール
 
-などを少しずつ制作しています。
+などを制作しています。
 
-「こんなものがあったら便利かも」というアイデアを、  
+「こんなものがあったら便利そう」
+「こうすればもっと分かりやすくなるかも」
+
+というアイデアを、
 実際に触って試せる形にしていくことを楽しんでいます。
 
 ---
 
 ## ✍️ note
 
-パソコン・Excel・生成AI・教材制作・ツール開発などについて発信しています。
+パソコン、Excel、生成AI、教材制作、
+Webツール開発などについて発信しています。
 
 👉 [noteを見る](https://note.com/yumin0116_snoopy)
 
@@ -176,7 +185,8 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 
 ## 🌸 About Me
 
-パソコンやプログラミングは、最初は難しく見えることもあります。
+パソコンやプログラミングは、
+最初は難しそうに感じることもあります。
 
 だからこそ、
 
@@ -184,10 +194,13 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 
 を大切にしています。
 
-講師として教えるだけでなく、  
-実際に操作できる教材やツールを作ることで、  
-「わかった」から「できた」につながるものを増やしていきたいと思っています。
+講師として説明するだけでなく、
+実際に操作できる教材やツールを作ることで、
+
+**「わかった」から「できた」へ**
+
+つながるものを増やしていきたいと思っています。
 
 ---
 
-⭐ 制作物は今後も随時追加していきます。
+⭐ 制作物はこれからも少しずつ追加していきます。
