@@ -179,7 +179,7 @@ Webゲームも制作しています。
 パソコン、Excel、生成AI、教材制作、
 Webツール開発などについて発信しています。
 
-👉 [noteを見る](https://note.com/yumin0116-snoopy)
+👉[noteを見る](https://note.com/yumin_snoopy)
 
 ---
 
