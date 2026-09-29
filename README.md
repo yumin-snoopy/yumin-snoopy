@@ -167,7 +167,7 @@ HTML / CSS / JavaScriptを使ったWebゲームも制作しています。
 GitHubでは「作ったもの」を、  
 noteでは「作った理由・使い方・試してみたこと」などを発信しています。
 
-📝 [noteを見る](https://note.com/yumin0116_snoopy)
+📝 [noteを見る](https://note.com/yumin_snoopy)
 
 ---
 
